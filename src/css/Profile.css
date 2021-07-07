@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+.btn-primary-profile {
+  background-color: red !important;
+  border-color: red !important;
+  margin-top: 0.8em;
+}
+
+.backdrop {
+  position: fixed;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.75);
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}
+
+.delete-Account-Card {
+  border-radius: 6px;
+  background-color: #221f21;
+  padding: 1rem;
+  display: block;
+  text-align: center;
+  width: 30rem;
+  height: 14%;
+  z-index: 10;
+  position: fixed;
+  top: 30%;
+  left: calc(50% - 8rem);
+}
+
+.btn-modal-profile {
+  margin: 0.2em;
+}

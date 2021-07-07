@@ -1,0 +1,19 @@
+#logo-login > img {
+    width: 200px;
+}
+
+.btn {
+    background-color: #ffba27;
+    border-color: #ffba27;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #ffba27 !important;
+    border-color: #ffba27 !important;
+}
+
+.grid-right {
+    grid-area: content;
+}
+
